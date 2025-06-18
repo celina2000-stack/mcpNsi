@@ -1,0 +1,32 @@
+{
+  "withTraining": {
+    "name": "Test Venue",
+    "province": "Koshi Province",
+    "district": "Bhojpur",
+    "address": "Sample Address",
+    "status": "Active",
+    "contactNo": "1234567890",
+    "difficultyFactor": "Difficulty Factor 10%",
+    "bonusLevel": "Bonus 2",
+    "email": "test@example.com",
+    "isAffiliated": true,
+    "affiliationDates": [
+      { "start": "05/08/2025", "end": "05/10/2025" }
+    ],
+    "modules": ["CSSP", "Training"],
+    "trainingType": "ASBA",
+    "sanctionBeds": "10",
+    "availableBeds": "8"
+  },
+  "alreadyExist": {
+    "name": "Test Venue",
+    "province": "Koshi Province",
+    "district": "Bhojpur",
+    "address": "Sample Address",
+    "status": "Active",
+    "contactNo": "9999999999",
+    "difficultyFactor": "Difficulty Factor 10%",
+    "bonusLevel": "Bonus 2",
+    "email": "alreadyexist@example.com"
+  }
+} 

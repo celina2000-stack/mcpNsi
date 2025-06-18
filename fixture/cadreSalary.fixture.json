@@ -1,0 +1,14 @@
+{
+  "valid": {
+    "cadreGroup": "Medical",
+    "cadre": "Consultant",
+    "designation": "test1",
+    "paymentItems": ["Basic Salary", "Gratuity", "Annual leave"],
+    "employeeFullName": "test123 test1"
+  },
+  "alreadyexist": {
+    "cadreGroup": "Medical",
+    "cadre": "MDGP",
+    "designation": "MDGP GoN"
+  }
+} 

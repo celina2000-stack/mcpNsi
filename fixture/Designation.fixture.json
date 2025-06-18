@@ -1,0 +1,10 @@
+{
+  "valid": {
+    "cadreGroup": "Medical",
+    "cadre": "Consultant",
+    "designationName": "test1"
+  },
+  "invalid": {
+    "designationName": ""
+  }
+}

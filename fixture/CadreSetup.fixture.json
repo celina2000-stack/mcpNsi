@@ -1,0 +1,13 @@
+{
+  "cadreGroup": {
+    "name": "Medical"
+  },
+  "cadreSetup": {
+    "cadreGroup": "Medical",
+    "cadreName": "Test Cadre",
+    "cadreDescription": "Test Cadre Description"
+  },
+  "invalid": {
+    "cadreName": ""
+  }
+} 

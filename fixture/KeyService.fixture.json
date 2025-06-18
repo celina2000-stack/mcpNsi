@@ -1,0 +1,32 @@
+{
+  "valid": {
+    "serviceName": "Test Key Service",
+    "serviceType": "Service",
+    "displayOrder": "1"
+  },
+  "duplicate": {
+    "serviceName": "Test Key Service"
+  },
+  "templateServices": [
+    {
+      "serviceName": "Test Key Service",
+      "displayOrder": "1"
+    },
+    {
+      "serviceName": "IPD Services",
+      "displayOrder": "2"
+    }
+  ],
+  "kpsiEntry": {
+    "hospitalType": "Secondary B",
+    "keyVersion": "Version 2"
+  },
+  "entriesEntry": {
+    "venue": "Seti Provincial Hospital",
+    "fiscalYear": "2081/082 (2024/25)",
+    "date": "2024-06-01",
+    "observerName": "Automation Observer",
+    "hospitalType": "Secondary B",
+    "keyVersion": "Version 2"
+  }
+} 

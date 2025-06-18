@@ -1,0 +1,34 @@
+{
+  "valid": {
+    "serviceName": "Test Service",
+    "programType": "CSSP-MDGP",
+    "hmisVersion": "Version 2",
+    "displayOrder": "1"
+  },
+  "duplicate": {
+    "serviceName": "Test Service"
+  },
+  "templateServices": [
+    {
+      "serviceName": "Test Service",
+      "displayOrder": "1"
+    },
+    {
+      "serviceName": "Clients Served",
+      "displayOrder": "2"
+    },
+    {
+      "serviceName": "In Patient Service (IPD)",
+      "displayOrder": "3"
+    }
+  ],
+  "hmisEntry": {
+    "fiscalYear": "2081/082 (2024/25)",
+    "province": "Bagmati Province",
+    "venue": "Pashupati Chaulagain Smriti Hospital",
+    "dataType": "Hospital (Direct)",
+    "programType": "CSSP-MDGP",
+    "hmisVersion": "Version 2",
+    "reportingPeriod": "Shrawan"
+  }
+} 

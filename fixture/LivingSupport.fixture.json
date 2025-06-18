@@ -1,0 +1,18 @@
+{
+  "valid": {
+    "livingSupportName": "Automation Living Support",
+    "hasItem": true
+  },
+  "duplicate": {
+    "livingSupportName": "Automation Living Support"
+  },
+  "templateItems": [
+    { "itemName": "Automation Item 1" },
+    { "itemName": "Automation Item 2" },
+    { "itemName": "Automation Item 3" }
+  ],
+  "entriesEntry": {
+    "fiscalYear": "2081/082 (2024/25)",
+    "venue": "Seti Provincial Hospital"
+  }
+} 
